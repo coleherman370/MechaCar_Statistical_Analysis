@@ -4,7 +4,7 @@
 
 - The variables with non-random amount of variance to mpg values are vehicle_length and ground_clearance
 - The R-squared value of the dataset is equal to .7149.
-* As such it should not be considered 0
+  - As such it should not be considered 0
 - This linear model should predict the mpg of MechaCar prototypes effectively since the p-value of the dataset provided is equal to 5.53e-11 which indicates a strong correlation
 
 ## Summary Statistics on Suspension Coils
@@ -17,8 +17,8 @@
 </p>
 
 - If the specifications for the suspesion coils dictate that the variance for the PSI must not exceed 100 pounds per square inch then the results are varied
-* As a total, the variance is an acceptable 62.29 pounds per square inch
-* However, when reviewing each lot it appears that only Lots 1 and 2 are within acceptable limits of .98 and 7.47 while Lot 3 is not within an acceptable range with a variance of 170.29
+  - As a total, the variance is an acceptable 62.29 pounds per square inch
+  - However, when reviewing each lot it appears that only Lots 1 and 2 are within acceptable limits of .98 and 7.47 while Lot 3 is not within an acceptable range with a variance of 170.29
 
 ## T-Tests on Suspension Coils
 
